@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "corp": "^1.0.4",
+    "express": "^5.1.0"
+  }
+}
